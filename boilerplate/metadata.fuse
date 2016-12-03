@@ -1,0 +1,7 @@
+return {
+	version = "0.1.0",
+	description = "Boilerplate application for FusionScript",
+	author = 'Ryan "ChickenNuggers" <ryan@hashbang.sh>',
+	copyright = "Copyright (c) 2016 Ryan",
+	license = "MIT"
+};

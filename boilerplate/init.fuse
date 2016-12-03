@@ -1,0 +1,10 @@
+print_info()-> {
+	local metadata = require("boilerplate.metadata");
+	for (k, v in pairs(metadata)) {
+		print(k, v);
+	}
+}
+
+return {
+	print_info = print_info
+};
